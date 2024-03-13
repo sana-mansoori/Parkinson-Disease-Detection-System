@@ -1,0 +1,1 @@
+Parkinson's disease is a neurodegenerative disorder that affects dopamine neurons, resulting in movement issues and tremors. Diagnosis is difficult, so this model uses machine learning to collect data from both normal and affected individuals and determine whether or not the person has Parkinson's disease.
